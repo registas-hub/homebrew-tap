@@ -1,6 +1,6 @@
 cask "gesture-ex" do
-  version "0.4.0"
-  sha256 "256a6e65474ef449c68d78e25c881ffafd9bc3a0b1580d69ce67ce7423faf3fc"
+  version "0.5.0"
+  sha256 "f7825bb70b224667dcac4397d954a2634c57a23f46b9959f4bcecf673388d66f"
 
   url "https://github.com/registas-hub/gesture-ex/releases/download/v#{version}/gesture-ex-v#{version}.zip"
   name "gesture-ex"
